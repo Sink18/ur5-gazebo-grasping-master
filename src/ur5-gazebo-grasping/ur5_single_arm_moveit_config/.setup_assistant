@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5_single_arm_tufts
+    relative_path: urdf/ur5_single_arm.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5.srdf
+  CONFIG:
+    author_name: liup
+    author_email: 1248781227@qq.com
+    generated_timestamp: 1696819489
